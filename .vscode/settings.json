@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "studentManagementSystem/src",
+        "studentGradeCalculator/src",
+        "numberGame/src",
+        "ATMInterface/src",
+        "studentmanagementsystems/src/main/java"
+    ]
+}
