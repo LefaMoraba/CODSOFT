@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "studentmanagementsystems/src/main/java",
         "studentManagementSystem/src",
         "studentGradeCalculator/src",
         "numberGame/src",
         "ATMInterface/src",
-        "studentmanagementsystems/src/main/java"
+        "currencyConverter/src"
     ]
 }
